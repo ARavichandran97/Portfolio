@@ -1059,12 +1059,6 @@ header {
         justify-content: space-between;
     }
 
-    .box {
-        width: 300px;
-        height: 300px;
-
-    }
-
     .myimage img {
         max-width: 300px;
         width: 100%;
@@ -1121,12 +1115,6 @@ header {
 @media (max-width: 376px) {
 
 
-    .box {
-        width: 280px;
-        height: 280px;
-
-    }
-
     .myimage img {
         max-width: 300px;
         width: 100%;
@@ -1167,12 +1155,6 @@ header {
 }
 
 @media (max-width: 350px) {
-
-    .box {
-        width: 260px;
-        height: 260px;
-
-    }
 
     .myimage img {
         max-width: 280px;
